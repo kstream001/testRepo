@@ -5,8 +5,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/kstream001/testRepo.git
 git push -u origin master\
 
-add one more
-asdf
-asdf
-afasfasdfsadfsdf
-asfasf
+add one
