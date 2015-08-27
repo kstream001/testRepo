@@ -7,5 +7,3 @@ git push -u origin master\
 
 add one more
 
-asdfasd
-asdfasdfasdfasdf
